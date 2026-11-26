@@ -7,7 +7,7 @@ MAKEFUN_OUTPUT_DIR.
 
 import os
 
-ENTRY = "One star. Great lighting, zero Wi-Fi, and it shows up uninvited every single night. Would not orbit again."
+ENTRY = "One star. Great lighting, zero Wi-Fi, and it keeps photobombing my sky every single night. Would not orbit again."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/tmp/out")
